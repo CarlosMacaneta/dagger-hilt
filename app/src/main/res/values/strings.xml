@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dagger hilt train</string>
+
+    <string name="word">Testing injection with string resources</string>
 </resources>
